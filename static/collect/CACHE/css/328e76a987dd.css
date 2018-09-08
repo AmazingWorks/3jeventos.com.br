@@ -1,0 +1,55 @@
+.servico-item {
+    height: 159px;
+}
+
+.pessoas-item {
+    height: 48px;
+}
+
+.affix-top .navbar-brand.branco {
+    display: none;
+}
+
+.affix-top .navbar-brand {
+    display: block;
+}
+
+.affix .navbar-brand {
+    display: none;
+}
+
+.affix .navbar-brand.branco {
+    display: block;
+}
+
+.contact-form input[type="email"], .contact-form input[type="tel"]{
+    width:100%;
+    height: 40px;
+    margin-bottom:30px;
+    background:none;
+    padding-left:15px;
+    border:1px solid rgba(255,255,255,.5);
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.carousel,
+.item,
+.active {
+    height: 700px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
